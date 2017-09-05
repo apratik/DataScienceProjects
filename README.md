@@ -21,6 +21,10 @@ Goal of this case study is to model the price of cars with the available indepen
 -----------------------------------------------------
 Goal of the case study is to model the probability of attrition using a logistic regression. The results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to stay.
 
-5. KNN Implementation for Spark :
+6. KNN Implementation for Spark :
 -----------------------------------------------------
 KNN Algorithm is implemented to analyze performance of Spark and Hadoop.
+
+7. Hackathon Railway Helpdesk Automation :
+-----------------------------------------------------
+Tried automation of Railway Helpdesk to quickly resolve twitter based queries and complaints using twitter streaming plugin, OpenNLP, MongoDB and Tableau for reporting. 
