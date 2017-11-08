@@ -27,8 +27,13 @@ KNN Algorithm is implemented to analyze performance of Spark and Hadoop.
 
 7. Hackathon Railway Helpdesk Automation :
 -----------------------------------------------------
-Tried automation of Railway Helpdesk to quickly resolve twitter based queries and complaints using twitter streaming plugin, OpenNLP, MongoDB and Tableau for reporting. 
+Tried automation of Railway Helpdesk to quickly resolve twitter based queries and complaints using twitter streaming plugin, OpenNLP, MongoDB and Tableau for reporting.   
 
 8. Handwritten Digit Recognition :
 -----------------------------------------------------
 Developed a model using Support Vector Machine which should correctly classify the handwritten digits based on the pixel values given as features. 
+
+
+9. Retail Giant Sales Forecasting
+-----------------------------------------------------
+This case study is to forecast sales and demand for retail giant. The forecasting is focused on 2 most profitable (and consistent) segments in next 6 months.
