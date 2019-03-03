@@ -37,3 +37,9 @@ Developed a model using Support Vector Machine which should correctly classify t
 9. Retail Giant Sales Forecasting
 -----------------------------------------------------
 This case study is to forecast sales and demand for retail giant. The forecasting is focused on 2 most profitable (and consistent) segments in next 6 months.
+
+
+10. Capstone Project - Credit Scorecard
+-----------------------------------------------------
+This case study is to help identify the right customers using predictive models. Using past data of the bank’s applicants, we need to determine the factors affecting credit risk, create strategies to mitigate the acquisition risk and assess the financial benefit.  
+
